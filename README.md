@@ -1,3 +1,3 @@
 # filters
 
-Filters for assosiations
+Filters for associations
