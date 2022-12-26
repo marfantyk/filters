@@ -1,5 +1,5 @@
-interim
-output
+data/interim
+data/output
 bin
 test
 *.class
