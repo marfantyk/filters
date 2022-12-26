@@ -1,0 +1,12 @@
+comments	trait	trait_uri	studies	association_counts	papers
+musculoskeletal	bone fracture	http://www.ebi.ac.uk/efo/EFO_0003931	85	53	85
+musculoskeletal	osteoarthritis	http://purl.obolibrary.org/obo/MONDO_0005178	60	99	60
+musculoskeletal	bone density	http://www.ebi.ac.uk/efo/EFO_0003923	53	692	53
+musculoskeletal	lean body mass	http://www.ebi.ac.uk/efo/EFO_0004995	45	523	45
+musculoskeletal	osteoporosis	http://www.ebi.ac.uk/efo/EFO_0003882	33	45	33
+musculoskeletal	heel bone mineral density	http://www.ebi.ac.uk/efo/EFO_0009270	25	4690	25
+musculoskeletal	femoral neck bone mineral density	http://www.ebi.ac.uk/efo/EFO_0007785	17	197	17
+musculoskeletal	spine bone mineral density	http://www.ebi.ac.uk/efo/EFO_0007701	17	145	17
+musculoskeletal	hip bone mineral density	http://www.ebi.ac.uk/efo/EFO_0007702	10	88	10
+musculoskeletal	radius bone mineral density	http://www.ebi.ac.uk/efo/EFO_0007933	4	25	4
+musculoskeletal	Abnormality of bone mineral density	http://purl.obolibrary.org/obo/HP_0004348	4	0	4

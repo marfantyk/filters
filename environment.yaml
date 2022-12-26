@@ -1,4 +1,4 @@
-name: thrombophilia
+name: filters
 channels:
   - conda-forge
   - bioconda

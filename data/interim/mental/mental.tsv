@@ -1,0 +1,15 @@
+comments	trait	trait_uri	studies	association_counts	papers
+mental	Alzheimer disease	http://purl.obolibrary.org/obo/MONDO_0004975	89	669	89
+mental	Parkinson disease	http://purl.obolibrary.org/obo/MONDO_0005180	49	452	49
+mental	mental or behavioural disorder	http://www.ebi.ac.uk/efo/EFO_0000677	35	127	35
+mental	memory performance	http://www.ebi.ac.uk/efo/EFO_0004874	34	438	34
+mental	episodic memory	http://www.ebi.ac.uk/efo/EFO_0004333	21	11	21
+mental	family history of Alzheimer’s disease	http://www.ebi.ac.uk/efo/EFO_0009268	16	105	16
+mental	Cognitive impairment	http://purl.obolibrary.org/obo/HP_0100543	14	8	14
+mental	short-term memory	http://www.ebi.ac.uk/efo/EFO_0004335	9	169	9
+mental	late-onset Alzheimers disease	http://www.ebi.ac.uk/efo/EFO_1001870	8	206	8
+mental	Lewy body dementia	http://www.ebi.ac.uk/efo/EFO_0006792	6	26	6
+mental	age of onset of Alzheimer disease	http://purl.obolibrary.org/obo/OBA_2001000	5	230	5
+mental	dementia	http://purl.obolibrary.org/obo/MONDO_0001627	4	0	4
+mental	Alzheimer disease, family history of Alzheimer’s disease	http://purl.obolibrary.org/obo/MONDO_0004975, http://www.ebi.ac.uk/efo/EFO_0009268	3	359	3
+mental	Alzheimer disease, Cognitive impairment	http://purl.obolibrary.org/obo/MONDO_0004975, http://purl.obolibrary.org/obo/HP_0100543	1	9	1
