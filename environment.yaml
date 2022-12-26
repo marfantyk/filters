@@ -8,5 +8,4 @@ dependencies:
   - pip
   - jupyterlab
   - pip:
-      - PyGithub
       - polars
