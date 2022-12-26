@@ -1,8 +1,0 @@
-comments	trait	trait_uri	studies	association_counts	papers
-lung	COVID-19	http://purl.obolibrary.org/obo/MONDO_0100096	123	659	123
-lung	asthma	http://purl.obolibrary.org/obo/MONDO_0004979	112	1475	112
-lung	chronic obstructive pulmonary disease	http://www.ebi.ac.uk/efo/EFO_0000341	55	525	55
-lung	lung carcinoma	http://www.ebi.ac.uk/efo/EFO_0001071	45	428	45
-lung	forced expiratory volume	http://www.ebi.ac.uk/efo/EFO_0004314	34	438	34
-lung	respiratory system disease	http://www.ebi.ac.uk/efo/EFO_0000684	34	109	34
-lung	lung carcinoma, family history of lung cancer	http://www.ebi.ac.uk/efo/EFO_0001071, http://www.ebi.ac.uk/efo/EFO_0006953	2	20	2

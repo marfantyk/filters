@@ -1,9 +1,0 @@
-comments	trait	trait_uri	studies	association_counts	papers
-inflammation	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729	43	433	43
-inflammation	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384	39	582	39
-inflammation	periodontitis	http://www.ebi.ac.uk/efo/EFO_0000649	31	153	31
-inflammation	inflammatory bowel disease	http://www.ebi.ac.uk/efo/EFO_0003767	28	540	28
-inflammation	irritable bowel syndrome	http://www.ebi.ac.uk/efo/EFO_0000555	28	34	28
-inflammation	response to TNF antagonist	http://www.ebi.ac.uk/efo/EFO_0004653	12	40	12
-inflammation	ulcerative colitis, Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000729, http://www.ebi.ac.uk/efo/EFO_0000384	3	13	3
-inflammation	self rated health, response to TNF antagonist	http://www.ebi.ac.uk/efo/EFO_0004778, http://www.ebi.ac.uk/efo/EFO_0004653	1	1	1
