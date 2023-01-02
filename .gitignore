@@ -1,5 +1,7 @@
 data/interim
 data/output
+data/input/gwass_associations.tsv
+data/input/gwass_studies.tsv
 bin
 test
 *.class
